@@ -68,6 +68,3 @@ module "config_rules" {
 - Fork and submit pull requests for new modules or improvements.
 - Test and document all code.
 
-## License
-MIT
-
