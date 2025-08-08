@@ -71,5 +71,3 @@ module "config_rules" {
 ## License
 MIT
 
-## Contact
-Open an issue or contact maintainers via Slack for support.
