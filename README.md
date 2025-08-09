@@ -64,7 +64,4 @@ module "config_rules" {
 - Non-compliance detected via AWS Config and GuardDuty, with Slack alerts.
 - Remediation can be automated or manual.
 
-## Contributing
-- Fork and submit pull requests for new modules or improvements.
-- Test and document all code.
 
